@@ -1,5 +1,5 @@
 read MESSAGE
-
+# Eu sou Tryber e…
 if [[ -z $MESSAGE ]]; then
     echo "Ops, você precisa passar um mensagem como argumento!"
     exit 1
