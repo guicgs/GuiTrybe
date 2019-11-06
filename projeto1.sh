@@ -1,5 +1,5 @@
 read MESSAGE
-
+# Vou ter muito sucesso na Programação!
 if [[ -z $MESSAGE ]]; then
     echo "Ops, você precisa passar um mensagem como argumento!"
     exit 1
